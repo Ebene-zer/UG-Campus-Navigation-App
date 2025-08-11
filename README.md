@@ -6,14 +6,14 @@ The app calculates **shortest paths**, considers **landmarks**, and supports mul
 ---
 
 ##  Features
-- 🚶 Find shortest and most optimal routes between two locations
-- 🏛️ Filter routes by landmarks (banks, lecture halls, hostels, etc.)
-- ⏱️ Sort routes by distance or estimated travel time
-- 📊 Uses multiple algorithms:
+-  Find shortest and most optimal routes between two locations
+-  Filter routes by landmarks (banks, lecture halls, hostels, etc.)
+-  Sort routes by distance or estimated travel time
+-  Uses multiple algorithms:
   - **Routing**: Dijkstra, Floyd-Warshall, Vogel Approximation, Northwest Corner Method, Critical Path Method
   - **Sorting**: Quick Sort, Merge Sort
   - **Searching**: Binary Search, Linear Search
-- 🖥️ Java Swing-based GUI
+-  Java Swing-based GUI
 
 ---
 
@@ -29,11 +29,13 @@ The app calculates **shortest paths**, considers **landmarks**, and supports mul
 
 ## 📂 Project Structure
 txt
----
+```
 src/
 ├── main/ # Entry point
 ├── data/ # Campus map & landmark data
 ├── algorithms/ # Routing, sorting & searching algorithms
 ├── ui/ # Swing-based GUI components
 └── utils/ # Helper classes (complexity, data models)
----
+```
+
+## Authors 
