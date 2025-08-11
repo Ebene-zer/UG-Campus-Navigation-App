@@ -28,7 +28,6 @@ The app calculates **shortest paths**, considers **landmarks**, and supports mul
 ---
 
 ## 📂 Project Structure
-txt
 ```
 src/
 ├── main/ # Entry point
